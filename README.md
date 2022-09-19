@@ -15,6 +15,8 @@
 ```python
 s = "Python Syntax Highlighting"
 print s
+```
 
 ```javascript
 var s = "javascript syntzx highlighting"
+```
